@@ -1,0 +1,10 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>settings</title>
+</head>
+<body>
+    <p>this is settings page</p>
+</body>
+</html>
